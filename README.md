@@ -21,7 +21,7 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
   </a>
   <br>
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-    <img src="[https://img.shields.io/badge/AWS%20CERTIFIED-SOLUTIONS%20ARCHITECT%20ASSOCIATE%20(SAA--C03)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8FpFDI90Ddd-spIDnMISnoAqND1VPh4fGXCSzUEkrw&s=10)" alt="AWS SAA-C03" />
+    <img src="[https://img.shields.io/badge/AWS%20CERTIFIED-SOLUTIONS%20ARCHITECT%20ASSOCIATE%20(SAA--C03)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://engrmuhammadusman108.medium.com/aws-cloud-solutions-architect-associate-certification-saa-c03-preparation-guidelines-and-plan-b411d35f970a)" alt="AWS SAA-C03" />
   </a>
   <br><br><br>
 </p>
@@ -87,7 +87,7 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/hoang-do-3b75522bb/" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.magnific.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?semt=ais_hybrid&w=740&q=80)" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dohoang61425@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
