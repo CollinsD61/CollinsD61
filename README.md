@@ -20,12 +20,16 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8FpFDI90Ddd-spIDnMISnoAqND1VPh4fGXCSzUEkrw&s=10" width="140" alt="AWS Certified Solutions Architect – Associate" align="right" />
   </a>
   
-  **AWS Certified Solutions Architect – Associate (SAA-C03)**  
-  * **Credential Holder:** Do Huy Hoang  
-  * **Issue Date:** May 22, 2026  
-  * **Expiration Date:** May 22, 2029  
-  * **Validation Number:** `ad5b81aaabb1413bb50c72d1273da695`  
-  * 🔗 **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)
+  **AWS Certified Solutions Architect – Associate (SAA-C03)**[cite: 2]  
+  * **Credential Holder:** Do Huy Hoang[cite: 2]  
+  * **Issue Date:** May 22, 2026[cite: 2]  
+  * **Expiration Date:** May 22, 2029[cite: 2]  
+  * **Validation Number:** `ad5b81aaabb1413bb50c72d1273da695`[cite: 2]  
+  * 🔗 **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)[cite: 2]
+  <br>
+  <a href="https://aws.amazon.com/verification" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEQochUGP55K08bQ2mtXjR8TTDmvbmiWYv9_C17bibQ&s=10" height="45" alt="AWS Certified SAA-C03 Official Logo" />
+  </a>
   <br><br>
 </p>
 
@@ -60,8 +64,11 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 <p align="left">
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/ARGO%20CD-FF7C00?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/ARGO%20CD-FF7C00?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/SONARQUBE-F3702A?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/TRIVY-38B6FF?style=flat-square&logo=aquasecurity&logoColor=white" alt="Trivy" />
 </p>
 
 ### 📊 Monitoring, Logging & Observability
