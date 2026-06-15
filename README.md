@@ -16,14 +16,17 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 
 ## 📜 Certifications
 <p align="left">
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941fc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate" align="right" />
+  <a href="https://aws.amazon.com/verification" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8FpFDI90Ddd-spIDnMISnoAqND1VPh4fGXCSzUEkrw&s=10" width="140" alt="AWS Certified Solutions Architect – Associate" align="right" />
   </a>
-  <br>
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-    <img src="[https://img.shields.io/badge/AWS%20CERTIFIED-SOLUTIONS%20ARCHITECT%20ASSOCIATE%20(SAA--C03)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://engrmuhammadusman108.medium.com/aws-cloud-solutions-architect-associate-certification-saa-c03-preparation-guidelines-and-plan-b411d35f970a)" alt="AWS SAA-C03" />
-  </a>
-  <br><br><br>
+  
+  **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+  * **Credential Holder:** Do Huy Hoang  
+  * **Issue Date:** May 22, 2026  
+  * **Expiration Date:** May 22, 2029  
+  * **Validation Number:** `ad5b81aaabb1413bb50c72d1273da695`  
+  * 🔗 **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)
+  <br><br>
 </p>
 
 ---
