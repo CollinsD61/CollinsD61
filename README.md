@@ -16,20 +16,12 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 
 ## 📜 Certifications
 <p align="left">
-  <a href="https://aws.amazon.com/verification" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8FpFDI90Ddd-spIDnMISnoAqND1VPh4fGXCSzUEkrw&s=10" width="140" alt="AWS Certified Solutions Architect – Associate" align="right" />
-  </a>
-  
   **AWS Certified Solutions Architect – Associate (SAA-C03)**[cite: 2]  
   * **Credential Holder:** Do Huy Hoang[cite: 2]  
   * **Issue Date:** May 22, 2026[cite: 2]  
   * **Expiration Date:** May 22, 2029[cite: 2]  
   * **Validation Number:** `ad5b81aaabb1413bb50c72d1273da695`[cite: 2]  
   * 🔗 **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)[cite: 2]
-  <br>
-  <a href="https://aws.amazon.com/verification" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEQochUGP55K08bQ2mtXjR8TTDmvbmiWYv9_C17bibQ&s=10" height="45" alt="AWS Certified SAA-C03 Official Logo" />
-  </a>
   <br><br>
 </p>
 
