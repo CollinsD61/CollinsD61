@@ -17,8 +17,13 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 ## 📜 Certifications
 <p align="left">
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate%20(SAA--C03)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA-C03" />
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941fc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate" align="right" />
   </a>
+  <br>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20CERTIFIED-SOLUTIONS%20ARCHITECT%20ASSOCIATE%20(SAA--C03)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA-C03" />
+  </a>
+  <br><br><br>
 </p>
 
 ---
@@ -27,49 +32,48 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 
 ### 🧠 Artificial Intelligence & MLOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ONNX-005C99?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=git&logoColor=white" alt="Hydra Config" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/RAG%20👁️‍🗨️-Architectures-blue?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector%20DB%20🗄️-Chroma%20%7C%20Pinecone%20%7C%20Qdrant-red?style=for-the-badge" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/ONNX-005C99?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HYDRA-000000?style=flat-square&logo=git&logoColor=white" alt="Hydra" />
+  <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/RAG%20👁️‍🗨️-OPENAI%20%7C%20LANGCHAIN-412991?style=flat-square&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/VECTOR%20DB-CHROMA%20%7C%20PINECONE-E11E44?style=flat-square&logo=pinecone&logoColor=white" alt="Vector DB" />
 </p>
 
 ### ☁️ Cloud & Infrastructure as Code (IaC)
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CloudFormation-257ACF?style=for-the-badge&logo=amazoncloudformation&logoColor=white" alt="CloudFormation" />
-  <img src="https://img.shields.io/badge/Ansible-CC0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CLOUDFORMATION-257ACF?style=flat-square&logo=amazoncloudformation&logoColor=white" alt="CloudFormation" />
+  <img src="https://img.shields.io/badge/ANSIBLE-CC0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ### 🚀 Containers, CI/CD & GitOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Argo%20CD-FF7C00?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/ARGO%20CD-FF7C00?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ### 📊 Monitoring, Logging & Observability
 <p align="left">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK" />
+  <img src="https://img.shields.io/badge/DATADOG-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/GRAFANA-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/LOKI-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- ⚠️ NOTE: Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=CollinsD61&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsD61&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
@@ -83,9 +87,9 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/hoang-do-3b75522bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dohoang61425@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
