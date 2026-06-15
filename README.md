@@ -53,7 +53,7 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
 
 ### ☁️ Cloud & Infrastructure as Code (IaC)
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/CLOUDFORMATION-257ACF?style=flat-square&logo=amazoncloudformation&logoColor=white" alt="CloudFormation" />
   <img src="https://img.shields.io/badge/ANSIBLE-CC0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
