@@ -25,7 +25,7 @@ I am an engineer passionate about building, optimizing, and deploying **Machine 
   * **Issue Date:** May 22, 2026  
   * **Expiration Date:** May 22, 2029  
   * **Validation Number:** `ad5b81aaabb1413bb50c72d1273da695`  
-  * 🔗 **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)
+  * **Verification:** [Validate via AWS Certification Verification](https://aws.amazon.com/verification)
   <br><br>
 </p>
 
