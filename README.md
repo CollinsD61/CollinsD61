@@ -1,4 +1,4 @@
-# Hi there, I'm a Machine Learning & DevOps Engineer! 👋
+# Hi there, I'm a DevOps Engineer! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Welcome%20to%20my%20GitHub%20🚀&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Banner" />
